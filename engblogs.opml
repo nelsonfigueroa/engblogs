@@ -370,6 +370,45 @@
 <outline type="rss" text="Tomasz Gągor" xmlUrl="https://gagor.pro/index.xml" htmlUrl="https://gagor.pro/about/"/>
 <outline type="rss" text="Apartment 304" xmlUrl="https://blog.apartment304.com/feed.xml" htmlUrl="https://blog.apartment304.com/"/>
 <outline type="rss" text="JVM Weekly" xmlUrl="https://jvm-weekly.substack.com/feed" htmlUrl="https://www.jvm-weekly.com/"/>
+<outline type="rss" text="AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed/" htmlUrl="https://aws.amazon.com/blogs/machine-learning/"/>
+<outline type="rss" text="Amazon Science" xmlUrl="https://www.amazon.science/index.rss" htmlUrl="https://www.amazon.science/"/>
+<outline type="rss" text="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/discover/blog/"/>
+<outline type="rss" text="OpenAI" xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news/"/>
+<outline type="rss" text="Meta AI Research" xmlUrl="https://engineering.fb.com/category/ai-research/feed/" htmlUrl="https://engineering.fb.com/category/ai-research/"/>
+<outline type="rss" text="Data Science at Microsoft" xmlUrl="https://medium.com/feed/data-science-at-microsoft" htmlUrl="https://medium.com/data-science-at-microsoft"/>
+<outline type="rss" text="Berkeley AI Research (BAIR)" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
+<outline type="rss" text="Hugging Face" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog"/>
+<outline type="rss" text="NVIDIA Developer" xmlUrl="https://developer.nvidia.com/blog/feed/" htmlUrl="https://developer.nvidia.com/blog/"/>
+<outline type="rss" text="Two Sigma Engineering" xmlUrl="https://www.twosigma.com/topic/engineering/feed/" htmlUrl="https://www.twosigma.com/articles/?topic=engineering"/>
+<outline type="rss" text="Walmart Global Tech" xmlUrl="https://medium.com/feed/walmartglobaltech" htmlUrl="https://medium.com/walmartglobaltech"/>
+<outline type="rss" text="Mercado Libre Tech" xmlUrl="https://medium.com/feed/mercadolibre-tech" htmlUrl="https://medium.com/mercadolibre-tech"/>
+<outline type="rss" text="Capital One Tech" xmlUrl="https://medium.com/feed/capital-one-tech" htmlUrl="https://medium.com/capital-one-tech"/>
+<outline type="rss" text="Nubank" xmlUrl="https://building.nubank.com.br/feed/" htmlUrl="https://building.nubank.com/"/>
+<outline type="rss" text="PayPal Technology" xmlUrl="https://medium.com/feed/paypal-tech" htmlUrl="https://medium.com/paypal-tech"/>
+<outline type="rss" text="Block (Square) Developer" xmlUrl="https://developer.squareup.com/blog/rss.xml" htmlUrl="https://developer.squareup.com/blog/"/>
+<outline type="rss" text="Booking.com Data Science" xmlUrl="https://booking.ai/feed" htmlUrl="https://booking.ai/"/>
+<outline type="rss" text="Scribd Tech" xmlUrl="https://tech.scribd.com/feed.xml" htmlUrl="https://tech.scribd.com/"/>
+<outline type="rss" text="Vimeo Engineering" xmlUrl="https://medium.com/feed/vimeo-engineering-blog" htmlUrl="https://medium.com/vimeo-engineering-blog"/>
+<outline type="rss" text="Grubhub Bytes" xmlUrl="https://bytes.grubhub.com/feed" htmlUrl="https://bytes.grubhub.com/"/>
+<outline type="rss" text="Picnic Tech" xmlUrl="https://blog.picnic.nl/feed" htmlUrl="https://blog.picnic.nl/"/>
+<outline type="rss" text="Pinterest Engineering" xmlUrl="https://medium.com/feed/pinterest-engineering" htmlUrl="https://medium.com/pinterest-engineering"/>
+<outline type="rss" text="Bumble Tech" xmlUrl="https://medium.com/feed/bumble-tech" htmlUrl="https://medium.com/bumble-tech"/>
+<outline type="rss" text="Meta ML Applications" xmlUrl="https://engineering.fb.com/category/ml-applications/feed/" htmlUrl="https://engineering.fb.com/category/ml-applications/"/>
+<outline type="rss" text="Udemy Engineering" xmlUrl="https://medium.com/feed/udemy-engineering" htmlUrl="https://medium.com/udemy-engineering"/>
+<outline type="rss" text="Amex GBT Technology" xmlUrl="https://medium.com/feed/amex-gbt-technology" htmlUrl="https://medium.com/amex-gbt-technology"/>
+<outline type="rss" text="Whatnot Engineering" xmlUrl="https://medium.com/feed/whatnot-engineering" htmlUrl="https://medium.com/whatnot-engineering"/>
+<outline type="rss" text="Glassdoor Engineering" xmlUrl="https://medium.com/feed/glassdoor-engineering" htmlUrl="https://medium.com/glassdoor-engineering"/>
+<outline type="rss" text="Dream11 Engineering" xmlUrl="https://medium.com/feed/dreamlockerroom" htmlUrl="https://medium.com/dreamlockerroom"/>
+<outline type="rss" text="Canva Engineering" xmlUrl="https://canvatechblog.com/feed" htmlUrl="https://canvatechblog.com/"/>
+<outline type="rss" text="ML@CMU" xmlUrl="https://blog.ml.cmu.edu/feed/" htmlUrl="https://blog.ml.cmu.edu/"/>
+<outline type="rss" text="MIT AI News" xmlUrl="https://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl="https://news.mit.edu/topic/artificial-intelligence2"/>
+<outline type="rss" text="Datadog Engineering" xmlUrl="https://www.datadoghq.com/blog/index.xml" htmlUrl="https://www.datadoghq.com/blog/engineering/"/>
+<outline type="rss" text="Revolut Engineering" xmlUrl="https://medium.com/feed/revolut" htmlUrl="https://medium.com/revolut"/>
+<outline type="rss" text="Duolingo Engineering" xmlUrl="https://blog.duolingo.com/feed/" htmlUrl="https://blog.duolingo.com/"/>
+<outline type="rss" text="Klarna Engineering" xmlUrl="https://engineering.klarna.com/feed" htmlUrl="https://engineering.klarna.com/"/>
+<outline type="rss" text="Adyen Tech" xmlUrl="https://medium.com/feed/adyen" htmlUrl="https://medium.com/adyen"/>
+<outline type="rss" text="Wise Engineering" xmlUrl="https://medium.com/feed/wise-engineering" htmlUrl="https://medium.com/wise-engineering"/>
+<outline type="rss" text="Wix Engineering" xmlUrl="https://www.wix.engineering/blog-feed.xml" htmlUrl="https://www.wix.engineering/"/>
 </outline>
 </body>
 </opml>
